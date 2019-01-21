@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Class-Path: slf4j-jdk14-1.7.12.jar camunda-engine-feel-api-7.10.0.jar 
+ activation-1.1.jar commons-logging-1.1.1.jar camunda-engine-feel-juel
+ -7.10.0.jar slf4j-api-1.7.12.jar camunda-commons-utils-1.6.0.jar camu
+ nda-commons-logging-1.6.1.jar camunda-cmmn-model-7.10.0.jar jcommande
+ r-1.48.jar javax.mail-1.5.6.jar commons-email-1.5.jar spring-asm-3.1.
+ 2.RELEASE.jar camunda-dmn-model-7.10.0.jar camunda-xml-model-7.10.0.j
+ ar core-3.3.0.jar spring-beans-3.1.2.RELEASE.jar camunda-engine-dmn-7
+ .10.0.jar jai-imageio-core-1.3.1.jar camunda-engine-7.10.0.jar camund
+ a-bpmn-model-7.10.0.jar spring-core-3.1.2.RELEASE.jar joda-time-2.1.j
+ ar mybatis-3.4.4.jar camunda-commons-typed-values-1.6.1.jar javase-3.
+ 3.0.jar
+
