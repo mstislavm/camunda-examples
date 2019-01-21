@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2019. Reunico, LLC
+ * info@reunico.com
+ * https://www.reunico.com
+ */
+
 package com.reunico.bpm;
 
 import com.google.zxing.BinaryBitmap;
